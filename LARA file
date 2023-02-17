@@ -1,0 +1,16 @@
+<h1> My Jupyter Notebook on IBM Watson Studio </h1>
+<b> Lara Chahoud </b>
+<p> Sociologist </p>
+<em> I am interested in data science because its the much needed science nowdays  </em>
+<h3> the following code return the summation of 2 numbers </h3>
+Def sum (x,y):
+  return x+y
+<ul>
+<li> Data science <li/>
+<li> Data Analysis <li/>
+<li> Business Analyst <li/>
+</ul>
+
+<a href = "https://www.google.com"> Google website </a>
+
+<p> Data Science is <s> Computer Scientist </s> </p>
