@@ -1,7 +1,7 @@
 <h1> My Jupyter Notebook on IBM Watson Studio </h1>
 <b> Lara Chahoud </b>
 <p> Sociologist </p>
-<em> I am interested in data science because its the much needed science nowdays  </em>
+<em> I am interested in data science because its the much needed science nowdays </em>
 <h3> the following code return the summation of 2 numbers </h3>
 Def sum (x,y):
   return x+y
